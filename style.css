@@ -1,0 +1,8 @@
+.tx-pc1{
+    color:red;
+    /* text-shadow: 20px;   */
+}
+
+body {
+    scroll-padding-top: 60px; /* Adjust this value to your navigation bar's height */
+}
