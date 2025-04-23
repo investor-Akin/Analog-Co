@@ -6,3 +6,8 @@
 body {
     scroll-padding-top: 60px; /* Adjust this value to your navigation bar's height */
 }
+
+.get{
+    text-decoration: none;
+    color: black;
+}
